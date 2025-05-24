@@ -25,7 +25,7 @@ export default function Home() {
           <p>当社の法定公告はこのページに掲載いたします。</p>
           <ul style={{ listStyleType: "none", paddingLeft: 0 }}>
             <li style={{ marginBottom: "1em" }}>
-              <strong>2024年度 決算公告：</strong>
+              <strong>2025年5月 公告：</strong>
               <a
                 href="/documents/2024_kessan.pdf"
                 target="_blank"
