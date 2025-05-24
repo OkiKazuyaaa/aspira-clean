@@ -7,13 +7,13 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>電子公告 | Aspira株式会社</title>
+        <title>電子公告 | 株式会社Aspira</title>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div style={{ fontFamily: "sans-serif", margin: 0, padding: 0, backgroundColor: "#f9f9f9", color: "#333" }}>
         <header style={{ backgroundColor: "#003366", color: "white", padding: "1em", textAlign: "center" }}>
-          <h1>Aspira株式会社 電子公告</h1>
+          <h1>株式会社Aspira 電子公告</h1>
         </header>
         <main style={{
           padding: "2em",
